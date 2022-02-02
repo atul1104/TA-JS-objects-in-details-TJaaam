@@ -1,4 +1,4 @@
-1. Create a function `createUser` that accepts `name` and `age` and returns a new object with those properties.
+1. Create a function `createUser` that accepts `name` and `age` and returns a new object with those properties..
 
 2. Add a method named `sayHello` inside the object created above. When called it should alert `Welcome {user}`. Replace `{user}` with the name of the user.
 
