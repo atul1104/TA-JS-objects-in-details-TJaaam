@@ -20,7 +20,7 @@ Book class will have the following methods:
 1. An array of all the Books
 2. Current read book index
 
-#### BookList Methods
+#### BookList Methods.
 
 - [] `add([Book])` will accept an array (list of books). Once the method is called the book will added to the list.
 - [] `getCurrentBook()` should return the current book using the `index` and the book array
