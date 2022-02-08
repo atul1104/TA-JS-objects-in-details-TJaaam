@@ -1,4 +1,4 @@
-We will be creating a quiz app in this section step-by-step. Follow the steps below and complete on by one
+We will be creating a quiz app in this section step-by-step. Follow the steps below and complete on by one.
 
 1. Quiz is a collection of Questions.
 2. Question will need `Title`, `Options` and `Correct Answer`
